@@ -1,6 +1,5 @@
-# git_101_training
-This is a training repo for some lecture lessons
+## git_101_training
 
-Feel free to add new issues
+Git 101 Trainingsunterlagen.
 
-This is a new line
+Bitte Issue nach Belieben anlegen.
