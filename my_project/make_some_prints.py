@@ -1,3 +1,4 @@
 print('start')
-print('hello multiverse')
+print('hello all universes')
+print('and also all multiverses')
 print('end')
