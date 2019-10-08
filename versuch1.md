@@ -1,3 +1,3 @@
 = das ist eine überschrift
 
-Eine neue Textdatei.
+Eine neue Textdatei für GitHub-Anfänger.
