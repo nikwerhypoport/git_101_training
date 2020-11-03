@@ -13,8 +13,10 @@ Alle die die Grundlagen der Githubnutzung erlernen wollen
 
 #### Teilnehmer am 03.11.2020
 
--Steffen Wachenfeld
+* Steffen Wachenfeld
 
--Ralf Alberti
+* Ralf Alberti
+
+* Dennis Henning
 
 (add yourself)
