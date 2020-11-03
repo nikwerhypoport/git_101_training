@@ -6,4 +6,4 @@ sonniges Gelb, sehr warm, wenig Regen
 # Herbst 
 bunte Blätter, viel Regen, es wird langsam dunkler und die Tage kürzer
 # Winter
-Sonne, Schneeund Eis, Weihnachten
+Sonne, Schnee und Eis, Weihnachten
