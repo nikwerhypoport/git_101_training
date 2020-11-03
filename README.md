@@ -15,7 +15,7 @@ Alle die die Grundlagen der Githubnutzung erlernen wollen
 
 * Steffen Wachenfeld
 
-* Ralf Alberti
+* Ralf 
 
 * Dennis Henning
 
