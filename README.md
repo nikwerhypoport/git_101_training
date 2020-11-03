@@ -19,4 +19,4 @@ Alle die die Grundlagen der Githubnutzung erlernen wollen
 
 * Dennis Henning
 
-(add yourself)
+-Janet Feldhahn
