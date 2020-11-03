@@ -4,40 +4,4 @@ Git 101 Trainingsunterlagen.
 
 Bitte Issues nach Belieben anlegen.
 
-Folien siehe: https://drive.google.com/drive/u/2/folders/0AD-F1PuSKDA2Uk9PVA
-
-## Das ist ja ein klasse Readme aber der Link geht nicht :( 
-
-
-Testzeilen: Yippie, ich bin dabei. Laut Duden darf man auch jippie sagen.
-
-### Erste Änderung von Dennis
-
-Hallo, hier eine Änderung
-# Das ist der Test 1 #
-
-Hier folgt ein Text zum Text
-
-## Das ist der Test 2 ##
-
-Hier folgt nochmal ein Text
-
-* Punkt 1
-* Punkt 2
-* Punkt 3
-
-### Zielgruppe und Teilnehmer
-
-#### Zielgruppe
-Alle die die Grundlagen der Githubnutzung erlernen wollen
-
-#### Teilnehmer am 03.11.2020
-
-* Steffen Wachenfeld
-
-* Ralf 
-
-* Dennis Henning
-
--Janet Feldhahn
-
+Folien siehe: https://docs.google.com/presentation/d/10tFmx_79tG2GIEsgXErwe7K6Hpa8XfG9xtxttXi8ojQ/edit#slide=id.g55e151cf3e_0_0
