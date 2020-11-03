@@ -18,4 +18,17 @@ Hier folgt nochmal ein Text
 * Punkt 2
 * Punkt 3
 
+### Zielgruppe und Teilnehmer
 
+#### Zielgruppe
+Alle die die Grundlagen der Githubnutzung erlernen wollen
+
+#### Teilnehmer am 03.11.2020
+
+* Steffen Wachenfeld
+
+* Ralf Alberti
+
+* Dennis Henning
+
+(add yourself)
