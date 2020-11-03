@@ -17,4 +17,4 @@ Alle die die Grundlagen der Githubnutzung erlernen wollen
 
 -Ralf Alberti
 
-(add yourself)
+-Janet Feldhahn
