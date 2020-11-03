@@ -6,6 +6,11 @@ Bitte Issues nach Belieben anlegen.
 
 Folien siehe: https://drive.google.com/drive/u/2/folders/0AD-F1PuSKDA2Uk9PVA
 
+
+### Erste Änderung von Dennis
+
+Hallo, hier eine Änderung
+=======
 # Das ist der Test 1 #
 
 Hier folgt ein Text zum Text
@@ -32,3 +37,4 @@ Alle die die Grundlagen der Githubnutzung erlernen wollen
 * Dennis Henning
 
 -Janet Feldhahn
+
