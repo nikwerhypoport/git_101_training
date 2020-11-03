@@ -5,6 +5,10 @@ Git 101 Trainingsunterlagen.
 Bitte Issues nach Belieben anlegen.
 
 Folien siehe: https://drive.google.com/drive/u/2/folders/0AD-F1PuSKDA2Uk9PVA
-
+(Link nicht mehr aktuell)
 
 Test-Update 03.11.2020
+
+
+
+
